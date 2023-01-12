@@ -1,6 +1,6 @@
-# Drawing-bed
+# DrawBed
 
 > *@author : Be-A-God*  
 > *@email : wx1028674648@gmail.com*
 
-### My Drawing-beg for blog and note
+### My DrawBeg for blog and note
